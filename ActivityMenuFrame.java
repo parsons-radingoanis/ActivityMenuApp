@@ -44,7 +44,8 @@ import javax.swing.border.BevelBorder;
 
 /**
  *
- * @author Gadifele Parsons Rad
+ * @author Gadifele Parsons Radingoanis
+   Student NO : 241265129
  */
 public class ActivityMenuFrame extends JFrame {
     
@@ -274,3 +275,4 @@ public class ActivityMenuFrame extends JFrame {
        }
 
    }
+
