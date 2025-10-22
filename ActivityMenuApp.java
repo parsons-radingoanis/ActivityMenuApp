@@ -5,10 +5,13 @@
  */
 package activitymenuapp;
 import za.ac.tut.menu.ActivityMenuFrame;
+
 /**
  *
- * @author Gadifele Parsons Rad
+ * @author Gadifele Parsons Radingoanis
+   Student NO : 241265129
  */
+
 public class ActivityMenuApp {
 
     /**
@@ -21,3 +24,4 @@ public class ActivityMenuApp {
     }
     
 }
+
