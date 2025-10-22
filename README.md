@@ -1,0 +1,1 @@
+The frame is a logIn gui using details of a user, a user can either use details from the computer by reading a file when pressing open file on menu or can instead enter their details to logIn. Details captured after logging in are stored in a database table connected using its URL.
